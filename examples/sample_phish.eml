@@ -1,0 +1,11 @@
+From: "PayPal Support" <service@paypa1-secure-login.top>
+Reply-To: helpdesk@mailbox-collector.xyz
+Subject: URGENT: your account will be suspended within 24 hours
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<p>We noticed unusual activity. Verify your account immediately.</p>
+<a href="http://paypa1-secure-login.top/verify?id=77">www.paypal.com/myaccount</a>
+</body></html>
